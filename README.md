@@ -13,10 +13,12 @@ I am a seasoned Data Analyst with valuable experience in extracting meaningful i
 ## Projects
 Explore my data-driven projects, including:
 
-1. **Customer Segmentation:** Leveraging clustering techniques to identify customer segments.
-2. **Sales Forecasting:** Predicting future sales using time series analysis.
-3. **A/B Testing:** Analyzing experiment results to optimize website performance.
+1. **Coffee Sales Shop Analysis:** Analyzing sales data for a coffee shop to identify peak hours, popular items, and customer preferences.
+2. **Sales Report Automation:** Automating the generation of monthly sales reports for a retail company.
+3. **Employee Data Analysis:**  Understanding workforce dynamics and retention patterns.
+4. **EPL Premier Insights:**   Analyzing English Premier League (EPL) match data.
 
+   
 Feel free to connect with me on LinkedIn or explore my code repositories!
 
 !LinkedIn
