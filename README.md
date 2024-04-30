@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+# My Data Analyst Portfolio
 
 Welcome to my data analyst portfolio! Here, I showcase my skills, projects, and insights related to data analysis.
 
